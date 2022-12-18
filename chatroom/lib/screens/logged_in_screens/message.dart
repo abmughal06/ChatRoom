@@ -89,7 +89,7 @@ class Inbox extends StatelessWidget {
                         ),
                         child: Text(
                           map["msg"].toString(),
-                          style: const TextStyle(color: Colors.white),
+                          style: TextStyle(color: Colors.blueGrey.shade900),
                         ),
                       );
                     } else {
