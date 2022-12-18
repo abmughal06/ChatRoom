@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "196387509347",
+    "firebase_url": "https://studentchattroom-default-rtdb.firebaseio.com",
+    "project_id": "studentchattroom",
+    "storage_bucket": "studentchattroom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196387509347:android:3ca000a71550c0eaec9456",
+        "android_client_info": {
+          "package_name": "com.wolfstack.chatroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196387509347-br393m90m8h576atp3qjrghnb5l07s5g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wolfstack.chatroom",
+            "certificate_hash": "293d2b447398b217a41e1979cf10cf4f89f5c9bc"
+          }
+        },
+        {
+          "client_id": "196387509347-cnoa6mdr2hicu9obaad68au5q0ktti31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwYOvYE8_1Kr7iPwyDqLpZlY9y-Q1xxQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196387509347-cnoa6mdr2hicu9obaad68au5q0ktti31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
